@@ -31,8 +31,8 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [[menu.main]]
-URL = "sample-page"
-name = "Sample Page"
+URL = "https://www.youtube.com/shakhawat/"
+name = "YouTube"
 weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
