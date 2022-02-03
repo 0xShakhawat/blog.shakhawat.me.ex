@@ -41,8 +41,8 @@ weight = "6"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
-description = "This is meta description"
+author = "Shakhawat"
+description = ""
 [params.banner]
 heading = "Hello! I'm SHAKHAWAT HOSSAIN"
 image = "images/2020-landscape-1-2.png"
