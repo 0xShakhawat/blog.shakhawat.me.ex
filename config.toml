@@ -19,9 +19,9 @@ URL = "/"
 name = "Home"
 weight = 1
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
+URL = "https://www.shakhawat.me/"
+name = "About Me"
+weight = "3"
 [[menu.main]]
 URL = "blog"
 name = "Blog"
