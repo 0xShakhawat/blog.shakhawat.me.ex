@@ -63,12 +63,12 @@ image = "images/2020-square-2.png"
 [[params.gallery.gallery_item]]
 image = "images/2020-square-1.png"
 [params.social]
-email = "#"
-facebook = "#"
-instagram = "#"
-linkedin = "#"
-twitter = "#"
-yelp = "#"
+email = "mail@shakhawat.me"
+facebook = "https://www.facebook.com/shakhawat.pi"
+instagram = "https://www.instagram.com/shakhawat.pi"
+linkedin = "https://www.linkedin.com/in/shakhawat-pi"
+twitter = "https://www.twitter.com/shakhawat_me"
+yelp = "https://www.github.com/shakhawat-pi"
 [taxonomies]
 author = "author"
 category = "categories"
