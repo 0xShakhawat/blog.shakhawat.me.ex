@@ -34,6 +34,10 @@ weight = 4
 URL = "https://www.youtube.com/shakhawat/"
 name = "YouTube"
 weight = 5
+[[menu.main]]
+URL = "https://linux.shakhawat.me"
+name = "হাতেকলমে লিনাক্স"
+weight = "6"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
