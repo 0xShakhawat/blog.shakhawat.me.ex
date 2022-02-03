@@ -47,14 +47,14 @@ heading = "a passionate Security Researcher, Creator, and Technology Enthusiast.
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
-content = "Pabna 6660, Bangladesh<br>www.shakhawat.me<br>mail@shakhawat.me"
+content = "Pabna, Bangladesh<br>www.shakhawat.me<br>mail@shakhawat.me"
 enable = true
 title = "Want To Connect With Me? Ok Let's Talk!"
 [params.footer]
-address = "123 Main Street <br> New York, NY 10001"
-content = "This may be a good place to introduce yourself and your site or include some credits."
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
-hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
+address = "Pabna 6660, Bangladesh"
+content = "... is the best place to learn and practice hacking in ethical way. Learn about IT security with some tips and tricks including various OSes."
+copyright = "&copy; ALL RIGHTS RESERVED. [BY SHAKHAWAT HOSSAIN](https://www.shakhawat.me)."
+hours = "Null"
 title = "About This Site"
 [params.gallery]
 enable = true
