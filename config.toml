@@ -11,8 +11,8 @@ title = "Shakhawat's Blog"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
-URL = "contact"
-name = "Contact"
+URL = "https://www.shakhawat.me"
+name = "About Me"
 weight = 1
 [[menu.main]]
 URL = "/"
