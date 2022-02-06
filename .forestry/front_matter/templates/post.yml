@@ -25,4 +25,5 @@ fields:
   label: description
   description: Meta description
 pages:
+- content/blog/hack-the-mac-address.md
 - content/blog/hello-world.md
